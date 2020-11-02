@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-What platform are you using?
+**What platform are you using?**
 
-What build are you using?
+**What build are you using?**
 
-Explain what the bug is.
+**Explain what the bug is.**
 
-Explain how the bug happened.
+**Explain how the bug happened.**
 
 Fill in the below checkbox with an X (with no spaces) like this. [x]
 
