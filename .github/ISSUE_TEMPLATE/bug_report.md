@@ -18,4 +18,4 @@ assignees: ''
 Fill in the below checkbox with an X (with no spaces) like this. [x]
 
 ---
-[] I have checked the open/closed issues to make sure that this bug has not already been reported.
+- [ ] I have checked the open/closed issues to make sure that this bug has not already been reported.

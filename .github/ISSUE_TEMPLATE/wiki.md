@@ -14,5 +14,5 @@ assignees: ''
 Fill the following boxes with an X to prove you have done them.
 
 ---
-[] I have checked the open/closed issues to make sure that this has not already been suggested.
-[] I have checked the wiki to make sure this suggestion has not been already added.
+- [ ] I have checked the open/closed issues to make sure that this has not already been suggested.
+- [ ] I have checked the wiki to make sure this suggestion has not been already added.
