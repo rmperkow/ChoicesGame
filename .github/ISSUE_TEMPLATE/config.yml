@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/rmperkow/ChoicesGame/discussions
+    about: Post questions in the Q&A discussions.
